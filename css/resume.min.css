@@ -1,7 +1,7 @@
 /*!
  * Start Bootstrap - Resume v5.0.2 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ * Licensed under MIT (https://git-althub.com/BlackrockDigit-altal/startbootstrap-resume/blob/master/LICENSE)
  */
 
  body {
@@ -129,7 +129,7 @@ p.lead {
 }
 
 .fa-php:hover {
-	color: #8892be
+	color: #99cc99
 }
 
 .fa-laravel:hover {
@@ -144,8 +144,8 @@ p.lead {
 	color: #b52e31
 }
 
-.fa-git:hover {
-	color: #fca326
+.fa-git-alt:hover {
+	color: #e24329
 }
 
 .fa-node:hover {
@@ -162,6 +162,10 @@ p.lead {
 
 .fa-linux:hover {
 	color: #333333
+}
+
+.fa-bootstrap:hover {
+	color: #613854
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
