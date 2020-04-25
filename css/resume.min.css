@@ -168,6 +168,10 @@ p.lead {
 	color: #613854
 }
 
+.fa-python:hover {
+	color: #306998
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
 	font-weight: 800;
 	letter-spacing: .05rem;
