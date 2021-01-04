@@ -172,6 +172,10 @@ p.lead {
 	color: #306998
 }
 
+.fa-ubuntu:hover {
+	color: #DD4814
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
 	font-weight: 800;
 	letter-spacing: .05rem;
