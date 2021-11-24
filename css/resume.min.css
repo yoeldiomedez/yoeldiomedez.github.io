@@ -285,3 +285,7 @@ a:focus,
 a:hover {
 	color: #BD5D38
 }
+
+.see-email:hover {
+    cursor: pointer;
+}
